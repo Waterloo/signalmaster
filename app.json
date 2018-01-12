@@ -1,0 +1,7 @@
+{
+  "name": "WebRTC Signalling Server",
+  "description": "WebRTC Signalling Server with nodejs backend",
+  "repository": "https://github.com/florindumitru/signalmaster",
+  "logo": "https://raw.githubusercontent.com/dtsdwarak/webrtc-demo/master/images/webrtc.png",
+  "keywords": ["nodejs", "webrtc", "socketio", "singal"]
+}
